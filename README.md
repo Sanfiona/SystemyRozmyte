@@ -23,15 +23,9 @@ Projekt zawiera rozbudowaną sekcję analityczną, w tym:
 * **Metryki jakości:** Analiza błędów regulacji i porównanie wydajności różnych modeli sterowników.
 * **Wykresy trendów:** Prezentacja stabilizacji temperatury w czasie.
 
-## Autorzy
-Projekt został zrealizowany przez zespół w składzie:
-* Milena Pasterczyk
-* Karol Ogonowski
-* Piotr Pająk
-* Dawid Sudol
-
 *Projekt przygotowany w ramach studiów informatycznych na Uniwersytecie Rzeszowskim.*
 
 ---
 *Informacja: Przy optymalizacji kodu oraz strukturze dokumentacji wykorzystano narzędzia AI w celu zapewnienia najwyższej jakości technicznej.*
+
 
